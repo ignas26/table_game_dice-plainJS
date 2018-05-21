@@ -15,7 +15,7 @@ body {
     top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
-    transition: 0.8s;
+    transition: 0.9s;
 }
 
 .background {
@@ -83,6 +83,6 @@ body {
 }
 .current {
     color: orange !important;
-    transform: scale(1.2);
+    transform: scale(2);
     transition: .9s;
 }
